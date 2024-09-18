@@ -1,0 +1,1 @@
+This module this for replacing Samsung qmg bootanimation using Magisk module. You can replace the qmg files in the zip for another bootanimation, here I used the Rog bootanimation. Made using [this template](https://github.com/Zackptg5/MMT-Extended?tab=readme-ov-file) 
